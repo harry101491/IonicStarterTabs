@@ -1,0 +1,7 @@
+{
+  "name": "photo-gallary",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
